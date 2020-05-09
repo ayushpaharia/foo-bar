@@ -29,7 +29,7 @@ dic​ ​=​ ​{
 ​ ​​ ​​ ​​ ​"spc":"000000"
 }
 
-def​ ​answer(text):
+def​ ​solution_function(text):
 ​ ​​ ​​ ​​ ​answerStr​ ​=​ ​""
 
 ​ ​​ ​​ ​​ ​for​ ​char​ ​in​ ​text:
