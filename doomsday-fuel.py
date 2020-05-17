@@ -1,4 +1,4 @@
-def solution(matrix):
+def answer(matrix):
     H=len(matrix)
     W=len(matrix[0])
     mat=list(matrix)
